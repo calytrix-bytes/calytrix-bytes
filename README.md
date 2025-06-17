@@ -1,16 +1,16 @@
 ## Hi there 👋
+just a high school student trying to learn stuff and build cool things.  
+aspiring dev. lover of coffee and mild chaos.
 
-<!--
-**calytrix-bytes/calytrix-bytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning:
+- python
+- how to exist
 
-Here are some ideas to get you started:
+- 🎯 Current mission:
+- survive high school
+- don't break stuff
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I like coffee 
+
+thanks for visiting my little corner of the internet
